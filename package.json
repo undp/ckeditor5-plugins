@@ -1,7 +1,7 @@
 {
-  "name": "@undp/ckeditor5-plugin-small",
+  "name": "@undp/ckeditor5-plugins",
   "version": "1.0.0",
-  "description": "<small> tag support plugin for CKEditor 5",
+  "description": "Custom plugins for CKEditor 5",
   "author": "Jura Khrapunov <jura.khrapunov@undp.org>",
   "license": "MIT",
   "scripts": {
